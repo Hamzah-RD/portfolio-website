@@ -572,7 +572,7 @@ animation: sideBottom 0.5s ease forwards;
 .row img {
     width: 100%;
     height: 250px;
-    object-fit: cover;
+    object-fit: contain;
     display: block;
     transition: transform 0.5s ease;
 }
